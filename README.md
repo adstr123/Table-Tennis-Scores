@@ -54,4 +54,4 @@ Gets information from the GUI (should have gone through MatchScore), has logic t
 ## Result
 I got 70%, a first.
 
-![Table Tennis Score Tracker Screenshot](https://github.com/adstr123/Table-Tennis-Scores/blob/master/demo.jpg)
+![Table Tennis Score Tracker Screenshot](https://github.com/adstr123/Table-Tennis-Scores/blob/master/demo.JPG)
